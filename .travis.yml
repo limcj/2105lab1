@@ -60,4 +60,4 @@ script:
 
 notifications:
   # Change the slack key below to the one given to match your team's channel
-slack: csc2007-ict2105:bQ28L3hRjUEM2572HI0bx6sk
+  slack: csc2007-ict2105:D0Vq1Z877sJb5oXtBakLpXp8
